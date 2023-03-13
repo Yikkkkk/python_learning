@@ -14,3 +14,5 @@ print(type(12.1))
 
 #转化类型
 print(int(13.21),float(12),str(12))
+
+
