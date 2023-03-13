@@ -10,3 +10,7 @@ print("strain")
 a = 88
 print(type(a))
 print(type(12.1))
+#变量没有类型 变量存储的数据有类型
+
+#转化类型
+print(int(13.21),float(12),str(12))
