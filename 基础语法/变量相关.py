@@ -7,3 +7,6 @@ print(666)
 print(13.14)
 print("strain")
 
+a = 88
+print(type(a))
+print(type(12.1))
